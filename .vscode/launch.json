@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch String",
+            "request": "launch",
+            "mainClass": "String",
+            "projectName": "weredoingjavanow_1cf16f91"
+        },
+        {
+            "type": "php",
+            "request": "launch",
+            "name": "Run using local PHP Interpreter",
+            "program": "${file}",
+            "runtimeExecutable": "C:\\php\\php.exe"
+        }
+    ]
+}

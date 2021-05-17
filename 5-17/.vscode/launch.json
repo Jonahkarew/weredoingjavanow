@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch VarTypes",
+            "request": "launch",
+            "mainClass": "VarTypes",
+            "projectName": "5-17_b5b9ba7c"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewString",
+            "request": "launch",
+            "mainClass": "NewString",
+            "projectName": "5-17_b5b9ba7c"
+        },
+        {
+            "type": "java",
+            "name": "Launch String",
+            "request": "launch",
+            "mainClass": "String",
+            "projectName": "5-17_b5b9ba7c"
+        },
+        {
+            "type": "php",
+            "request": "launch",
+            "name": "Run using local PHP Interpreter",
+            "program": "${file}",
+            "runtimeExecutable": "C:\\php\\php.exe"
+        }
+    ]
+}
