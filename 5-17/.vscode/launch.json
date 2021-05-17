@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Operator",
+            "request": "launch",
+            "mainClass": "Operator",
+            "projectName": "5-17_b5b9ba7c"
+        },
+        {
+            "type": "java",
             "name": "Launch VarTypes",
             "request": "launch",
             "mainClass": "VarTypes",
