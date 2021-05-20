@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SwitchStatement",
+            "request": "launch",
+            "mainClass": "SwitchStatement",
+            "projectName": "520_60b369b5"
+        },
+        {
+            "type": "java",
             "name": "Launch LogicalOperator",
             "request": "launch",
             "mainClass": "LogicalOperator",
