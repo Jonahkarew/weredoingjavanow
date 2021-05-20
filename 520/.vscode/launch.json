@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DoWhileLoop",
+            "request": "launch",
+            "mainClass": "DoWhileLoop",
+            "projectName": "520_60b369b5"
+        },
+        {
+            "type": "java",
             "name": "Launch WhileLoop",
             "request": "launch",
             "mainClass": "WhileLoop",
