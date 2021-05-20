@@ -9,12 +9,13 @@ public class Interest
 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
-        double amount = scanner.nextDouble();
+        int amount = scanner.nextInt();
         for (int i = 0; i < 3; i++){
-           amount = amount- amount *0.1;
+          double dubAmount = Math.floor(amount * 0.9);
+            amount = (int)dubAmount;
         }
 
-
+        scanner.close();
         System.out.println(amount);
     }
 }

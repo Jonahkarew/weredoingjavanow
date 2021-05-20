@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IfCondition",
+            "request": "launch",
+            "mainClass": "IfCondition",
+            "projectName": "520_60b369b5"
+        },
+        {
+            "type": "java",
             "name": "Launch Interest",
             "request": "launch",
             "mainClass": "Interest",
