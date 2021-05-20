@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "520_60b369b5"
+        },
+        {
+            "type": "java",
             "name": "Launch SwitchStatement",
             "request": "launch",
             "mainClass": "SwitchStatement",
